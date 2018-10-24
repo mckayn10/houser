@@ -1,0 +1,7 @@
+.house-container {
+    width: 100%;
+    background-color: #DEDEDE;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
